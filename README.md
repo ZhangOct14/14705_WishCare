@@ -1,0 +1,2 @@
+# 14705_WishCare
+基于OpenHarmony的WiseCare老年人健康监控系统研究与设计
